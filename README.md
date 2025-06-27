@@ -29,13 +29,13 @@ I’m always eager to meet people who share my interests and passions, share exp
    <a href="https://secsys.pages.dev/feed.xml" target="_blank">📡 RSS Feed</a>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s3csys&label=Profile%20views&color=0e75b6&style=flat" alt="s3csys" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammilshaik&label=Profile%20views&color=0e75b6&style=flat" alt="muzammilshaik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3csys" alt="s3csys" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammilshaik" alt="muzammilshaik" /></a> </p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=s3csys&show_icons=true&locale=en&layout=compact" alt="s3csys" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammilshaik&show_icons=true&locale=en&layout=compact" alt="muzammilshaik" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=s3csys&show_icons=true&locale=en" alt="s3csys" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammilshaik&show_icons=true&locale=en" alt="muzammilshaik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s3csys&" alt="s3csys" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilshaik&" alt="muzammilshaik" /></p>
