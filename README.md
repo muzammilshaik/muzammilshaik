@@ -38,4 +38,4 @@ I’m always eager to meet people who share my interests and passions, share exp
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammilshaik&show_icons=true&locale=en" alt="muzammilshaik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilshaik&" alt="muzammilshaik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilshaik" alt="muzammilshaik" /></p>
