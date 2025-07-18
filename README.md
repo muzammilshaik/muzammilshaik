@@ -39,11 +39,11 @@ I love connecting with fellow techies, sharing experiences, and exploring new ch
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- `2025-06-11` | [Jenkins kickstart](https://secsys.pages.dev//posts/jenkinskickstart/)  
-- `2025-06-04` | [🐧 Linux Environment Variables](https://secsys.pages.dev//posts/linux-environment/)  
-- `2025-05-29` | [Git](https://secsys.pages.dev//posts/git-cheat/)  
-- `2025-05-14` | [Cloudtrail Event](https://secsys.pages.dev//posts/aws-cloudtrail/)  
-- `2025-05-01` | [Install OSTicket with Apache + MySQL](https://secsys.pages.dev//posts/osticket/)  
+- `2025-07-01` | [github workflow](https://secsys.pages.dev/posts/github-wotkflow/)  
+- `2025-06-11` | [Jenkins kickstart](https://secsys.pages.dev/posts/jenkinskickstart/)  
+- `2025-06-04` | [🐧 Linux Environment Variables](https://secsys.pages.dev/posts/linux-environment/)  
+- `2025-05-29` | [Git](https://secsys.pages.dev/posts/git-cheat/)  
+- `2025-05-14` | [Cloudtrail Event](https://secsys.pages.dev/posts/aws-cloudtrail/)  
 <!-- BLOG-POST-LIST:END -->
 
 ---
