@@ -107,10 +107,10 @@ I love connecting with fellow techies, sharing experiences, and exploring new ch
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - `2025-07-29` | [kubernetes kickstart](https://secsys.pages.dev/posts/KubeKickstart/)  
-- `2025-07-07` | [Dockerfile](https://secsys.pages.dev/posts/dockerfile/)  
-- `2025-07-01` | [github workflow](https://secsys.pages.dev/posts/github-wotkflow/)  
-- `2025-06-11` | [Jenkins kickstart](https://secsys.pages.dev/posts/jenkinskickstart/)  
-- `2025-06-04` | [🐧 Linux Environment Variables](https://secsys.pages.dev/posts/linux-environment/)  
+- `2025-07-29` | [Kubernetes Service Mesh](https://secsys.pages.dev/posts/KubeKickstart-service-mesh/)  
+- `2025-07-29` | [Kubernetes Policy Management](https://secsys.pages.dev/posts/KubeKickstart-policy/)  
+- `2025-07-29` | [Kubernetes Operators and Custom Resources](https://secsys.pages.dev/posts/KubeKickstart-operators/)  
+- `2025-07-29` | [Kubernetes Multi-Cluster Management](https://secsys.pages.dev/posts/KubeKickstart-multi-cluster/)  
 
 <!-- BLOG-POST-LIST:END -->
 
