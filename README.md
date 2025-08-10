@@ -106,11 +106,11 @@ I love connecting with fellow techies, sharing experiences, and exploring new ch
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-09` | [Talos with Kubernetes on Proxmox](https://secsys.pages.dev/posts/talos/)  
+- `2025-08-08` | [Kestra Workflow Orchestration](https://secsys.pages.dev/posts/kestra/)  
 - `2025-07-29` | [kubernetes kickstart](https://secsys.pages.dev/posts/KubeKickstart/)  
 - `2025-07-29` | [Kubernetes Service Mesh](https://secsys.pages.dev/posts/KubeKickstart-service-mesh/)  
 - `2025-07-29` | [Kubernetes Policy Management](https://secsys.pages.dev/posts/KubeKickstart-policy/)  
-- `2025-07-29` | [Kubernetes Operators and Custom Resources](https://secsys.pages.dev/posts/KubeKickstart-operators/)  
-- `2025-07-29` | [Kubernetes Multi-Cluster Management](https://secsys.pages.dev/posts/KubeKickstart-multi-cluster/)  
 
 <!-- BLOG-POST-LIST:END -->
 
