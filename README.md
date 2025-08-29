@@ -106,11 +106,11 @@ I love connecting with fellow techies, sharing experiences, and exploring new ch
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- `2025-08-27` | [Ansible Kickstart](https://secsys.pages.dev/posts/ansible/)  
+- `2025-08-19` | [Terraform Kickstart](https://secsys.pages.dev/posts/terraform-kickstart/)  
+- `2025-08-11` | [Kubernetes Ingress Traefik Middlewares: Complete Reference Guide](https://secsys.pages.dev/posts/KubeKickstart-traefik-middleware/)  
 - `2025-08-09` | [Talos with Kubernetes on Proxmox](https://secsys.pages.dev/posts/talos/)  
 - `2025-08-08` | [Kestra Workflow Orchestration](https://secsys.pages.dev/posts/kestra/)  
-- `2025-07-29` | [kubernetes kickstart](https://secsys.pages.dev/posts/KubeKickstart/)  
-- `2025-07-29` | [Kubernetes Service Mesh](https://secsys.pages.dev/posts/KubeKickstart-service-mesh/)  
-- `2025-07-29` | [Kubernetes Policy Management](https://secsys.pages.dev/posts/KubeKickstart-policy/)  
 
 <!-- BLOG-POST-LIST:END -->
 
