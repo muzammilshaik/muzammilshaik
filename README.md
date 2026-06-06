@@ -106,11 +106,11 @@ I love connecting with fellow techies, sharing experiences, and exploring new ch
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- `2026-03-08` | [Veeam](https://secsys.pages.dev/posts/veeam/)  
-- `2026-03-08` | [pm2](https://secsys.pages.dev/posts/pm2/)  
-- `2025-08-27` | [Ansible Kickstart](https://secsys.pages.dev/posts/ansible/)  
-- `2025-08-19` | [Terraform Kickstart](https://secsys.pages.dev/posts/terraform-kickstart/)  
-- `2025-08-11` | [Kubernetes Ingress Traefik Middlewares: Complete Reference Guide](https://secsys.pages.dev/posts/KubeKickstart-traefik-middleware/)  
+- `2026-05-05` | [IDRAC](https://secsys.pages.dev/posts/idrac/)  
+- `2026-03-12` | [Veeam](https://secsys.pages.dev/posts/veeam/)  
+- `2026-03-12` | [screen](https://secsys.pages.dev/posts/screen/)  
+- `2026-03-12` | [LVM](https://secsys.pages.dev/posts/lvm/)  
+- `2026-03-12` | [Linux Performance Monitoring](https://secsys.pages.dev/posts/lpm/)  
 
 <!-- BLOG-POST-LIST:END -->
 
